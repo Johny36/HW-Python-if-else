@@ -64,7 +64,7 @@ while True:
         new_task = input ("Enter new task title: ")
         tasks[index] = new_task
 
- ######## HW 2 +p 5 swap Task 1 with task 2 -> Index 1, Index 2 #############
+ ######## HW 2 "option 5" ---- Swap Task 1 with task 2 -> Index 1, Index 2 #############
     if option == 5:
         system("clear")
         task1 =int(input("Enter number Task 1: "))
