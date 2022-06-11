@@ -40,8 +40,8 @@ while True:
         input("Hit ENTER to continue: ")
 
 ############################ REMOVE A TASK ####################################       
-# HW1  p 3 ask for the index -> remove / python list metods
-#     * print the task title / confirm yes/no ?
+# HW1 -----> ADD option 3 ask for the index -> Delete / Show Python list metods
+#     * print the task title / confirmation with to the question "YES/NO"?
     if option == 3:
         system("clear")
         while True:
